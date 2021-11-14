@@ -1,0 +1,1 @@
+/root/OS-rust-test/os/target/riscv64gc-unknown-none-elf/release/os: /root/OS-rust-test/os/src/console.rs /root/OS-rust-test/os/src/entry.asm /root/OS-rust-test/os/src/lang_item.rs /root/OS-rust-test/os/src/main.rs /root/OS-rust-test/os/src/sbi.rs
