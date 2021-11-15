@@ -1,1 +1,0 @@
-/root/OS-rust-test/os/target/riscv64gc-unknown-none-elf/debug/os: /root/OS-rust-test/os/../user/src/ /root/OS-rust-test/os/../user/target/riscv64gc-unknown-none-elf/release/ /root/OS-rust-test/os/build.rs /root/OS-rust-test/os/src/main.rs
